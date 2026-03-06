@@ -1,62 +1,93 @@
-# Kanan Portfolio 🚀
+# 🚀 Kanan Kango — Developer Portfolio
 
-This is my personal developer portfolio built using **React, TypeScript and Vite**.
-
-The website showcases my projects, technical skills, and experience in **AI, Machine Learning, and Web Development**.
-
----
-
-## Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Three.js
-- GSAP
-- HTML
-- CSS
-- JavaScript
+Welcome to my personal developer portfolio.
+This project showcases my work, technical skills, and projects in **Artificial Intelligence, Machine Learning, and Web Development**.
 
 ---
 
-## Features
+## 👨‍💻 About Me
 
-- Modern UI design
-- Responsive layout
-- Interactive animations
-- Project showcase
-- Contact section
+I am an **AI & Machine Learning student** passionate about building intelligent systems and modern web applications.
+I enjoy combining **software engineering with AI technologies** to create impactful digital solutions.
 
----
+Currently:
 
-## Projects
-
-Some projects included in the portfolio:
-
-- AI Chatbot
-- Machine Learning Projects
-- React Web Applications
-- Personal Development Tools
+* 💼 Software Developer Intern at **HXP Technologies**
+* 🤖 Exploring **Machine Learning & AI**
+* 🌐 Building modern web apps using **React**
 
 ---
 
-## Live Demo
+## 🛠 Tech Stack
 
-(Add your deployed portfolio link here after hosting)
+**Frontend**
+
+* React
+* TypeScript
+* JavaScript
+* HTML / CSS
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* Vite
+
+**AI / ML**
+
+* Python
+* Machine Learning
+* Deep Learning (Learning Phase)
 
 ---
 
-## Author
+## 📂 Project Structure
 
-**Kanan**  
-AI & Machine Learning Student  
-Aspiring Software Developer
+```id="tree1"
+src/
+ ├── components
+ ├── pages
+ ├── assets
+ ├── utils
+ └── styles
+```
+
+---
+
+## ⚡ Running the Project
+
+Clone the repository:
+
+```id="clone1"
+git clone https://github.com/kanankango/kanankango-portfolio.git
+```
+
+Go to project folder:
+
+```id="cd1"
+cd kanankango-portfolio
+```
+
+Install dependencies:
+
+```id="install1"
+npm install
+```
+
+Run development server:
+
+```id="run1"
+npm run dev
+```
+
+---
+
+## 🌐 Connect With Me
 
 GitHub: https://github.com/kanankango
-LinkedIn: https://www.linkedin.com/in/kanan-kango-16499b282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: Add your LinkedIn
+Email: Add your email
 
 ---
 
-## License
-
-Based on an open-source project originally licensed under MIT.
+⭐ If you like this project, consider **starring the repository**.
