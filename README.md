@@ -1,15 +1,62 @@
-# My Portfolio Wesbite by @red1-for-hek - Overview 🚀
+# Kanan Portfolio 🚀
 
-If you are copying this code or forking this repo, please give a credit of my name :(
+This is my personal developer portfolio built using **React, TypeScript and Vite**.
 
-## Instructions 🛠️
+The website showcases my projects, technical skills, and experience in **AI, Machine Learning, and Web Development**.
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+---
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Tech Stack
 
-- [Protfolio-Preview](https://www.redoyanulhaque.me/)
+- React
+- TypeScript
+- Vite
+- Three.js
+- GSAP
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Features
+
+- Modern UI design
+- Responsive layout
+- Interactive animations
+- Project showcase
+- Contact section
+
+---
+
+## Projects
+
+Some projects included in the portfolio:
+
+- AI Chatbot
+- Machine Learning Projects
+- React Web Applications
+- Personal Development Tools
+
+---
+
+## Live Demo
+
+(Add your deployed portfolio link here after hosting)
+
+---
+
+## Author
+
+**Kanan**  
+AI & Machine Learning Student  
+Aspiring Software Developer
+
+GitHub: https://github.com/kanankango
+LinkedIn: https://www.linkedin.com/in/kanan-kango-16499b282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+Based on an open-source project originally licensed under MIT.
