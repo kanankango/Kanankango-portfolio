@@ -85,8 +85,7 @@ npm run dev
 ## 🌐 Connect With Me
 
 GitHub: https://github.com/kanankango
-LinkedIn: Add your LinkedIn
-Email: Add your email
+Email: kanankango@gmail.com
 
 ---
 
