@@ -1,9 +1,9 @@
 import {
   FaGithub,
   FaInstagram,
-  FaLinkedinIn,
-  FaXTwitter,
+  FaLinkedinIn
 } from "react-icons/fa6";
+
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -11,6 +11,7 @@ import HoverLinks from "./HoverLinks";
 import { config } from "../config";
 
 const SocialIcons = () => {
+
   useEffect(() => {
     const social = document.getElementById("social") as HTMLElement;
 
@@ -60,33 +61,37 @@ const SocialIcons = () => {
   return (
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
+
         <span>
           <a href={config.contact.github} target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
         </span>
+
         <span>
           <a href={config.contact.linkedin} target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
-          <a href={config.contact.twitter} target="_blank" rel="noopener noreferrer">
-            <FaXTwitter />
-          </a>
-        </span>
+
         <span>
           <a href={config.contact.instagram} target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </span>
+
       </div>
-      <a className="resume-button" href="#">
-        <HoverLinks text="RESUME" />
-        <span>
-          <TbNotes />
-        </span>
-      </a>
+      <a
+  className="resume-button"
+  href="https://drive.google.com/file/d/1kl2CbFICenuK9QZi3aHK3cCQlQvvKXw6/preview"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <HoverLinks text="RESUME" />
+  <span>
+    <TbNotes />
+  </span>
+  </a>
     </div>
   );
 };

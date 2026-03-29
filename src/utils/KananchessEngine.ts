@@ -1,4 +1,4 @@
-class RedoxChessEngine {
+class KananChessEngine {
   private engine: Worker | null = null;
   private onMoveCallback: ((move: string) => void) | null = null;
   private _isReady = false;
@@ -58,4 +58,4 @@ class RedoxChessEngine {
   }
 }
 
-export default RedoxChessEngine;
+export default KananChessEngine;

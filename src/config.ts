@@ -15,77 +15,77 @@ export const config = {
         description: "I am an AI & Machine Learning student and aspiring Software Developer with a strong interest in building intelligent and scalable applications. I work with technologies like React, JavaScript, Python, and modern web tools to create user-focused web applications. I am currently gaining practical experience as a Software Developer Intern at HXP Technologies while continuously improving my skills in AI, Machine Learning, and full-stack development. I enjoy solving real-world problems through code and learning new technologies that help build smarter digital solutions."
     },
     experiences: [
-        {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
-            location: "Chandigarh, India",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
-            responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
-            ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
-        },
-        {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
-            period: "2025",
-            location: "Chandigarh, India",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
-            responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
-            ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
-        },
-        {
-            position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
-            location: "Chandigarh, India",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
-            responsibilities: [
-                "Developing full-stack web applications using React and Node.js",
-                "Building RESTful APIs and integrating databases",
-                "Creating responsive and interactive user interfaces",
-                "Deploying and maintaining web applications"
-            ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
-        },
-        {
-            position: "Python Developer",
-            company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Chandigarh, India",
-            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
-            responsibilities: [
-                "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
-                "Exploring data structures and algorithms",
-                "Participating in competitive programming"
-            ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
-        },
-        {
-            position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Chandigarh, India",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
-            responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
-            ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
-        }
+  {
+    position: "AI/ML Student",
+    company: "Chandigarh Group of Colleges",
+    period: "2026 - Present",
+    location: "Chandigarh, India",
+    description: "Currently pursuing B.Tech in Artificial Intelligence & Machine Learning while actively building AI-driven applications and exploring modern technologies.",
+    responsibilities: [
+      "Learning advanced AI and machine learning concepts",
+      "Building AI-powered applications and automation tools",
+      "Exploring LLMs, conversational AI, and intelligent agents",
+      "Working on real-world AI and software projects"
     ],
+    technologies: ["Python", "Machine Learning", "AI Agents", "LLMs", "Automation"]
+  },
+  {
+    position: "Software Developer Intern",
+    company: "HXP Technologies",
+    period: "2026",
+    location: "India",
+    description: "Worked as a Software Developer Intern contributing to development tasks, building web features, and improving application performance.",
+    responsibilities: [
+      "Developing web application features",
+      "Working with frontend and backend technologies",
+      "Debugging and improving existing systems",
+      "Collaborating with developers on real-world projects"
+    ],
+    technologies: ["React", "JavaScript", "Node.js", "APIs", "Git"]
+  },
+  {
+    position: "Freelance Developer",
+    company: "Self Projects & Freelance Work",
+    period: "2025",
+    location: "Chandigarh, India",
+    description: "Worked on freelance and personal projects, building full-stack web applications and experimenting with AI-based tools.",
+    responsibilities: [
+      "Developing full-stack web applications",
+      "Building responsive React user interfaces",
+      "Integrating APIs and backend services",
+      "Working with clients and managing project delivery"
+    ],
+    technologies: ["React", "Node.js", "MongoDB", "Express", "JavaScript"]
+  },
+  {
+    position: "UI/UX Designer",
+    company: "Self Learning & Projects",
+    period: "2024",
+    location: "Chandigarh, India",
+    description: "Focused on UI/UX design principles, creating user-friendly interfaces and improving product usability through modern design practices.",
+    responsibilities: [
+      "Designing wireframes and prototypes",
+      "Learning UX principles and user-centered design",
+      "Creating responsive UI layouts",
+      "Designing interfaces for personal projects"
+    ],
+    technologies: ["Figma", "UI Design", "UX Research", "Prototyping", "Design Systems"]
+  },
+  {
+    position: "Web Development Learner",
+    company: "B.Tech Journey Started",
+    period: "2023",
+    location: "Chandigarh, India",
+    description: "Started my B.Tech in AI/ML and began learning web development fundamentals including HTML, CSS, JavaScript, and modern frontend frameworks.",
+    responsibilities: [
+      "Learning HTML, CSS, and JavaScript",
+      "Building basic web applications",
+      "Understanding programming logic and problem solving",
+      "Starting the journey into software development"
+    ],
+    technologies: ["HTML", "CSS", "JavaScript",  "Web Fundamentals"]
+  }
+],
     projects: [
         {
             id: 1,
@@ -157,7 +157,7 @@ export const config = {
         github: "https://github.com/kanankango",
         linkedin: "https://www.linkedin.com/in/kanan-kango-16499b282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
+        
         instagram: "https://www.instagram.com/kanan_kango?igsh=MWN4Z3RsOWNud2ZzaQ=="
     },
     skills: {
